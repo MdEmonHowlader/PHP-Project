@@ -1,5 +1,6 @@
 <?php
 include_once'inc/header1.php';
+include_once'inc/slider.php';
 
 ?>
 
