@@ -48,7 +48,7 @@
           <div class="row pt-5">
             <div class="col-12 text-center">
               <a class="absolute-toggle d-block d-md-none" data-toggle="collapse" href="#navbarMenu" role="button" aria-expanded="false" aria-controls="navbarMenu"><span class="burger-lines"></span></a>
-              <h1 class="site-logo"><a href="index.html">Wordify</a></h1>
+              <h1 class="site-logo"><a href="index.php">Wordify</a></h1>
             </div>
           </div>
         </div>
@@ -60,39 +60,39 @@
             <div class="collapse navbar-collapse" id="navbarMenu">
               <ul class="navbar-nav mx-auto">
                 <li class="nav-item">
-                  <a class="nav-link" href="index.html">Home</a>
+                  <a class="nav-link" href="index.php">Home</a>
                 </li>
                 <li class="nav-item">
                   <a class="nav-link" href="#">Business</a>
                 </li>
                 <li class="nav-item dropdown">
-                  <a class="nav-link dropdown-toggle" href="category.html" id="dropdown04" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Travel</a>
+                  <a class="nav-link dropdown-toggle" href="category.php" id="dropdown04" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Travel</a>
                   <div class="dropdown-menu" aria-labelledby="dropdown04">
-                    <a class="dropdown-item" href="category.html">Asia</a>
-                    <a class="dropdown-item" href="category.html">Europe</a>
-                    <a class="dropdown-item" href="category.html">Dubai</a>
-                    <a class="dropdown-item" href="category.html">Africa</a>
-                    <a class="dropdown-item" href="category.html">South America</a>
+                    <a class="dropdown-item" href="category.php">Asia</a>
+                    <a class="dropdown-item" href="category.php">Europe</a>
+                    <a class="dropdown-item" href="category.php">Dubai</a>
+                    <a class="dropdown-item" href="category.php">Africa</a>
+                    <a class="dropdown-item" href="category.php">South America</a>
                   </div>
 
                 </li>
 
                 <li class="nav-item dropdown">
-                  <a class="nav-link dropdown-toggle active" href="category.html" id="dropdown05" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Categories</a>
+                  <a class="nav-link dropdown-toggle active" href="category.php" id="dropdown05" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Categories</a>
                   <div class="dropdown-menu" aria-labelledby="dropdown05">
-                    <a class="dropdown-item" href="category.html">Lifestyle</a>
-                    <a class="dropdown-item" href="category.html">Food</a>
-                    <a class="dropdown-item" href="category.html">Adventure</a>
-                    <a class="dropdown-item" href="category.html">Travel</a>
-                    <a class="dropdown-item" href="category.html">Business</a>
+                    <a class="dropdown-item" href="category.php">Lifestyle</a>
+                    <a class="dropdown-item" href="category.php">Food</a>
+                    <a class="dropdown-item" href="category.php">Adventure</a>
+                    <a class="dropdown-item" href="category.php">Travel</a>
+                    <a class="dropdown-item" href="category.php">Business</a>
                   </div>
 
                 </li>
                 <li class="nav-item">
-                  <a class="nav-link" href="about.html">About</a>
+                  <a class="nav-link" href="about.php">About</a>
                 </li>
                 <li class="nav-item">
-                  <a class="nav-link" href="contact.html">Contact</a>
+                  <a class="nav-link" href="contact.php">Contact</a>
                 </li>
               </ul>
               
@@ -117,7 +117,7 @@
               <div class="col-md-12">
 
                 <div class="post-entry-horzontal">
-                  <a href="blog-single.html">
+                  <a href="blog-single.php">
                     <div class="image element-animate" data-animate-effect="fadeIn" style="background-image: url(images/img_10.jpg);"></div>
                     <span class="text">
                       <div class="post-meta">
@@ -133,7 +133,7 @@
                 <!-- END post -->
 
                 <div class="post-entry-horzontal">
-                  <a href="blog-single.html">
+                  <a href="blog-single.php">
                     <div class="image element-animate" data-animate-effect="fadeIn" style="background-image: url(images/img_11.jpg);"></div>
                     <span class="text">
                       <div class="post-meta">
@@ -149,7 +149,7 @@
                 <!-- END post -->
 
                 <div class="post-entry-horzontal">
-                  <a href="blog-single.html">
+                  <a href="blog-single.php">
                     <div class="image element-animate" data-animate-effect="fadeIn" style="background-image: url(images/img_12.jpg);"></div>
                     <span class="text">
                       <div class="post-meta">
@@ -165,7 +165,7 @@
                 <!-- END post -->
 
                 <div class="post-entry-horzontal">
-                  <a href="blog-single.html">
+                  <a href="blog-single.php">
                     <div class="image element-animate" data-animate-effect="fadeIn" style="background-image: url(images/img_9.jpg);"></div>
                     <span class="text">
                       <div class="post-meta">
@@ -181,7 +181,7 @@
                 <!-- END post -->
 
                 <div class="post-entry-horzontal">
-                  <a href="blog-single.html">
+                  <a href="blog-single.php">
                     <div class="image element-animate" data-animate-effect="fadeIn" style="background-image: url(images/img_8.jpg);"></div>
                     <span class="text">
                       <div class="post-meta">
@@ -197,7 +197,7 @@
                 <!-- END post -->
 
                 <div class="post-entry-horzontal">
-                  <a href="blog-single.html">
+                  <a href="blog-single.php">
                     <div class="image element-animate" data-animate-effect="fadeIn" style="background-image: url(images/img_7.jpg);"></div>
                     <span class="text">
                       <div class="post-meta">
@@ -213,7 +213,7 @@
                 <!-- END post -->
 
                 <div class="post-entry-horzontal">
-                  <a href="blog-single.html">
+                  <a href="blog-single.php">
                     <div class="image element-animate" data-animate-effect="fadeIn" style="background-image: url(images/img_6.jpg);"></div>
                     <span class="text">
                       <div class="post-meta">
@@ -229,7 +229,7 @@
                 <!-- END post -->
 
                 <div class="post-entry-horzontal">
-                  <a href="blog-single.html">
+                  <a href="blog-single.php">
                     <div class="image element-animate" data-animate-effect="fadeIn" style="background-image: url(images/img_5.jpg);"></div>
                     <span class="text">
                       <div class="post-meta">
@@ -246,7 +246,7 @@
                 <!-- END post -->
 
                 <div class="post-entry-horzontal">
-                  <a href="blog-single.html">
+                  <a href="blog-single.php">
                     <div class="image element-animate" data-animate-effect="fadeIn" style="background-image: url(images/img_4.jpg);"></div>
                     <span class="text">
                       <div class="post-meta">
