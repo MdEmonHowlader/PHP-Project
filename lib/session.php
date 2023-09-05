@@ -13,6 +13,26 @@ class Session{
             return false;
         }
     }
+
+    public static function loginCheka(){
+        self::init();
+        if(self::get('login')==true){
+            header('location:index.php');
+
+        }
+    }
+    public static function checkSession(){
+        self::init();
+        if(self::get('login')==false){
+            self::destory();
+            header('location:login.php');
+            
+        }
+    }
+    public static function destory(){
+        session_destroy();
+        header('location:login.php');
+    }
 }
 
 
