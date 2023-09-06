@@ -1,8 +1,9 @@
 <?php
 include_once'../classes/Register.php';
+
 $re=new Register();
 if($_SERVER['REQUEST_METHOD']=='POST'){
-    $name=$_POST['name'];
+    $addUser=$re->AddUser($_POST);
 
 }
 
