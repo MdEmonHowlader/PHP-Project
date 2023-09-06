@@ -1,3 +1,14 @@
+<?php
+include_once'../classes/Register.php';
+$re=new Register();
+if($_SERVER['REQUEST_METHOD']=='POST'){
+    $name=$_POST['name'];
+
+}
+
+?>
+
+
 <!doctype html>
 <html lang="en">
   <head>
@@ -17,7 +28,7 @@
                 <div class="card">
                  <h5 class="card-header">Registration From</h5>
                     <div class="card-body">
-                        <form>
+                        <form action="" method="POST">
                         <div class="form-group">
                                 <label >Name</label>
                                 <input type="text" name="name" class="form-control"> 
