@@ -31,7 +31,7 @@
                     <div class="image" style="background-image: url(images/img_10.jpg);"></div>
                     <span class="text">
                       <div class="post-meta">
-                        <span class="author mr-2"><img src="images/person_1.jpg" alt="Colorlib"> Colorlib</span>&bullet;
+                        <span class="author mr-2"><img src="images/photo1.jpg" alt="Colorlib"> Colorlib</span>&bullet;
                         <span class="mr-2">March 15, 2018 </span> &bullet;
                         <span class="ml-2"><span class="fa fa-comments"></span> 3</span>
                       </div>
@@ -46,7 +46,7 @@
                     <div class="image" style="background-image: url(images/img_11.jpg);"></div>
                     <span class="text">
                       <div class="post-meta">
-                        <span class="author mr-2"><img src="images/person_1.jpg" alt="Colorlib"> Colorlib</span>&bullet;
+                        <span class="author mr-2"><img src="images/photo_2023-09-05_23-00-45.jpg" alt="Colorlib"> Colorlib</span>&bullet;
                         <span class="mr-2">March 15, 2018 </span> &bullet;
                         <span class="ml-2"><span class="fa fa-comments"></span> 3</span>
                       </div>
@@ -61,7 +61,7 @@
                     <div class="image" style="background-image: url(images/img_12.jpg);"></div>
                     <span class="text">
                       <div class="post-meta">
-                        <span class="author mr-2"><img src="images/person_1.jpg" alt="Colorlib"> Colorlib</span>&bullet;
+                        <span class="author mr-2"><img src="images/photo_2023-09-05_23-00-45.jpg" alt="Colorlib"> Colorlib</span>&bullet;
                         <span class="mr-2">March 15, 2018 </span> &bullet;
                         <span class="ml-2"><span class="fa fa-comments"></span> 3</span>
                       </div>
@@ -76,7 +76,7 @@
                     <div class="image" style="background-image: url(images/img_9.jpg);"></div>
                     <span class="text">
                       <div class="post-meta">
-                        <span class="author mr-2"><img src="images/person_1.jpg" alt="Colorlib"> Colorlib</span>&bullet;
+                        <span class="author mr-2"><img src="images/photo_2023-09-05_23-00-45.jpg" alt="Colorlib"> Colorlib</span>&bullet;
                         <span class="mr-2">March 15, 2018 </span> &bullet;
                         <span class="ml-2"><span class="fa fa-comments"></span> 3</span>
                       </div>
@@ -91,7 +91,7 @@
                     <div class="image" style="background-image: url(images/img_8.jpg);"></div>
                     <span class="text">
                       <div class="post-meta">
-                        <span class="author mr-2"><img src="images/person_1.jpg" alt="Colorlib"> Colorlib</span>&bullet;
+                        <span class="author mr-2"><img src="images/photo_2023-09-05_23-00-45.jpg" alt="Colorlib"> Colorlib</span>&bullet;
                         <span class="mr-2">March 15, 2018 </span> &bullet;
                         <span class="ml-2"><span class="fa fa-comments"></span> 3</span>
                       </div>
@@ -106,7 +106,7 @@
                     <div class="image" style="background-image: url(images/img_7.jpg);"></div>
                     <span class="text">
                       <div class="post-meta">
-                        <span class="author mr-2"><img src="images/person_1.jpg" alt="Colorlib"> Colorlib</span>&bullet;
+                        <span class="author mr-2"><img src="images/photo_2023-09-05_23-00-45.jpg" alt="Colorlib"> Colorlib</span>&bullet;
                         <span class="mr-2">March 15, 2018 </span> &bullet;
                         <span class="ml-2"><span class="fa fa-comments"></span> 3</span>
                       </div>
@@ -121,7 +121,7 @@
                     <div class="image" style="background-image: url(images/img_6.jpg);"></div>
                     <span class="text">
                       <div class="post-meta">
-                        <span class="author mr-2"><img src="images/person_1.jpg" alt="Colorlib"> Colorlib</span>&bullet;
+                        <span class="author mr-2"><img src="images/photo_2023-09-05_23-00-45.jpg" alt="Colorlib"> Colorlib</span>&bullet;
                         <span class="mr-2">March 15, 2018 </span> &bullet;
                         <span class="ml-2"><span class="fa fa-comments"></span> 3</span>
                       </div>
@@ -136,7 +136,7 @@
                     <div class="image" style="background-image: url(images/img_5.jpg);"></div>
                     <span class="text">
                       <div class="post-meta">
-                        <span class="author mr-2"><img src="images/person_1.jpg" alt="Colorlib"> Colorlib</span>&bullet;
+                        <span class="author mr-2"><img src="images/photo_2023-09-05_23-00-45.jpg" alt="Colorlib"> Colorlib</span>&bullet;
                         <span class="mr-2">March 15, 2018 </span> &bullet;
                         <span class="ml-2"><span class="fa fa-comments"></span> 3</span>
                       </div>
@@ -151,7 +151,7 @@
                     <div class="image" style="background-image: url(images/img_4.jpg);"></div>
                     <span class="text">
                       <div class="post-meta">
-                        <span class="author mr-2"><img src="images/person_1.jpg" alt="Colorlib"> Colorlib</span>&bullet;
+                        <span class="author mr-2"><img src="images/photo_2023-09-05_23-00-45.jpg" alt="Colorlib"> Colorlib</span>&bullet;
                         <span class="mr-2">March 15, 2018 </span> &bullet;
                         <span class="ml-2"><span class="fa fa-comments"></span> 3</span>
                       </div>

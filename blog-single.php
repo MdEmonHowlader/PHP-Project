@@ -11,7 +11,7 @@ include_once'inc/header.php';
           <div class="col-md-12 col-lg-8 main-content">
             <img src="images/img_10.jpg" alt="Image" class="img-fluid mb-5">
              <div class="post-meta">
-                        <span class="author mr-2"><img src="images/person_1.jpg" alt="Colorlib" class="mr-2"> Colorlib</span>&bullet;
+                        <span class="author mr-2"><img src="images/photo1.jpg" alt="Colorlib" class="mr-2"> Colorlib</span>&bullet;
                         <span class="mr-2">March 15, 2018 </span> &bullet;
                         <span class="ml-2"><span class="fa fa-comments"></span> 3</span>
                       </div>
@@ -52,7 +52,7 @@ include_once'inc/header.php';
               <ul class="comment-list">
                 <li class="comment">
                   <div class="vcard">
-                    <img src="images/person_1.jpg" alt="Image placeholder">
+                    <img src="images/photo1.jpg" alt="Image placeholder">
                   </div>
                   <div class="comment-body">
                     <h3>Jean Doe</h3>
@@ -64,7 +64,7 @@ include_once'inc/header.php';
 
                 <li class="comment">
                   <div class="vcard">
-                    <img src="images/person_1.jpg" alt="Image placeholder">
+                    <img src="images/photo1.jpg" alt="Image placeholder">
                   </div>
                   <div class="comment-body">
                     <h3>Jean Doe</h3>
@@ -76,7 +76,7 @@ include_once'inc/header.php';
                   <ul class="children">
                     <li class="comment">
                       <div class="vcard">
-                        <img src="images/person_1.jpg" alt="Image placeholder">
+                        <img src="images/photo1.jpg" alt="Image placeholder">
                       </div>
                       <div class="comment-body">
                         <h3>Jean Doe</h3>
@@ -89,7 +89,7 @@ include_once'inc/header.php';
                       <ul class="children">
                         <li class="comment">
                           <div class="vcard">
-                            <img src="images/person_1.jpg" alt="Image placeholder">
+                            <img src="images/photo1.jpg" alt="Image placeholder">
                           </div>
                           <div class="comment-body">
                             <h3>Jean Doe</h3>
@@ -101,7 +101,7 @@ include_once'inc/header.php';
                             <ul class="children">
                               <li class="comment">
                                 <div class="vcard">
-                                  <img src="images/person_1.jpg" alt="Image placeholder">
+                                  <img src="images/photo1.jpg" alt="Image placeholder">
                                 </div>
                                 <div class="comment-body">
                                   <h3>Jean Doe</h3>
@@ -119,7 +119,7 @@ include_once'inc/header.php';
 
                 <li class="comment">
                   <div class="vcard">
-                    <img src="images/person_1.jpg" alt="Image placeholder">
+                    <img src="images/photo1.jpg" alt="Image placeholder">
                   </div>
                   <div class="comment-body">
                     <h3>Jean Doe</h3>

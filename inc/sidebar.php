@@ -10,7 +10,7 @@
               <!-- END sidebar-box -->
               <div class="sidebar-box">
                 <div class="bio text-center">
-                  <img src="images/person_1.jpg" alt="Image Placeholder" class="img-fluid">
+                  <img src="images/photo1.jpg" alt="Image Placeholder" class="img-fluid">
                   <div class="bio-body">
                     <h2>Hi Emon</h2>
                     <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Exercitationem facilis sunt repellendus excepturi beatae porro debitis voluptate nulla quo veniam fuga sit molestias minus.</p>
