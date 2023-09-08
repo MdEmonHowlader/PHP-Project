@@ -23,28 +23,44 @@ if($_SERVER['REQUEST_METHOD']=='POST'){
     <title>Registration page</title>
   </head>
   <body>
-    <div class="container">
-        <div class="rew">
+    <div class="container py-5">
+        <div class="rew d-flex  justify-content-center">
             <div class="col-md-6">
+
+                <spen>
+                <?php
+                if(isset($addUser)){
+                 ?>
+                 <div class="alert alert-warning alert-dismissible fade show" role="alert">
+                    <?=$addUser?>
+                <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close">
+                    <spen aria-hidden="">$time</spen>
+                </button>
+                </div>
+                <?php
+                }
+                ?>
+                </spen>
+
                 <div class="card">
                  <h5 class="card-header">Registration From</h5>
                     <div class="card-body">
                         <form action="" method="POST">
                         <div class="form-group">
                                 <label >Name</label>
-                                <input type="text" name="name" class="form-control"> 
+                                <input type="text" name="name" class="form-control" placeholder="Enter your name"> 
                          </div>
-                            <div class="form-group">
+                            <div class="form-group" >
                                 <label >Phone</label>
-                                <input type="text" name="phone" class="form-control"> 
+                                <input type="text" name="phone" class="form-control" placeholder="Enter your phone"> 
                              </div>
                             <div class="form-group">
                                 <label >Email address</label>
-                                <input type="email" name="email" class="form-control">   
+                                <input type="email" name="email" class="form-control" placeholder="Enter your email">   
                             </div> 
                              <div class="form-group">
                                 <label >Password</label>
-                                <input type="password" name="password" class="form-control">   
+                                <input type="password" name="password" class="form-control" placeholder="Enter your password">   
                             </div>
                            <button type="submit" class="btn btn-success">Sign up</button>
                            
