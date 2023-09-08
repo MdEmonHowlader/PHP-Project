@@ -12,7 +12,7 @@ include_once'inc/header.php';
             <img src="images/img_10.jpg" alt="Image" class="img-fluid mb-5">
              <div class="post-meta">
                         <span class="author mr-2"><img src="images/photo1.jpg" alt="Colorlib" class="mr-2"> Colorlib</span>&bullet;
-                        <span class="mr-2">March 15, 2018 </span> &bullet;
+                        <span class="mr-2">September 9, 2023</span> &bullet;
                         <span class="ml-2"><span class="fa fa-comments"></span> 3</span>
                       </div>
             <h1 class="mb-4">There’s a Cool New Way for Men to Wear Socks and Sandals</h1>
@@ -55,8 +55,8 @@ include_once'inc/header.php';
                     <img src="images/photo1.jpg" alt="Image placeholder">
                   </div>
                   <div class="comment-body">
-                    <h3>Jean Doe</h3>
-                    <div class="meta">January 9, 2018 at 2:21pm</div>
+                    <h3>Md.Emon</h3>
+                    <div class="meta">September 9, 2023 at 2:21pm</div>
                     <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Pariatur quidem laborum necessitatibus, ipsam impedit vitae autem, eum officia, fugiat saepe enim sapiente iste iure! Quam voluptas earum impedit necessitatibus, nihil?</p>
                     <p><a href="#" class="reply rounded">Reply</a></p>
                   </div>
@@ -67,8 +67,8 @@ include_once'inc/header.php';
                     <img src="images/photo1.jpg" alt="Image placeholder">
                   </div>
                   <div class="comment-body">
-                    <h3>Jean Doe</h3>
-                    <div class="meta">January 9, 2018 at 2:21pm</div>
+                    <h3>Md.Emon</h3>
+                    <div class="meta">September 9, 2023 at 2:21pm</div>
                     <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Pariatur quidem laborum necessitatibus, ipsam impedit vitae autem, eum officia, fugiat saepe enim sapiente iste iure! Quam voluptas earum impedit necessitatibus, nihil?</p>
                     <p><a href="#" class="reply rounded">Reply</a></p>
                   </div>
@@ -79,8 +79,8 @@ include_once'inc/header.php';
                         <img src="images/photo1.jpg" alt="Image placeholder">
                       </div>
                       <div class="comment-body">
-                        <h3>Jean Doe</h3>
-                        <div class="meta">January 9, 2018 at 2:21pm</div>
+                        <h3>Md.Emon</h3>
+                        <div class="meta">September 9, 2023 at 2:21pm</div>
                         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Pariatur quidem laborum necessitatibus, ipsam impedit vitae autem, eum officia, fugiat saepe enim sapiente iste iure! Quam voluptas earum impedit necessitatibus, nihil?</p>
                         <p><a href="#" class="reply rounded">Reply</a></p>
                       </div>
@@ -92,8 +92,8 @@ include_once'inc/header.php';
                             <img src="images/photo1.jpg" alt="Image placeholder">
                           </div>
                           <div class="comment-body">
-                            <h3>Jean Doe</h3>
-                            <div class="meta">January 9, 2018 at 2:21pm</div>
+                            <h3>Md.Emon</h3>
+                            <div class="meta">September 9, 2023 at 2:21pm</div>
                             <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Pariatur quidem laborum necessitatibus, ipsam impedit vitae autem, eum officia, fugiat saepe enim sapiente iste iure! Quam voluptas earum impedit necessitatibus, nihil?</p>
                             <p><a href="#" class="reply rounded">Reply</a></p>
                           </div>
@@ -104,8 +104,8 @@ include_once'inc/header.php';
                                   <img src="images/photo1.jpg" alt="Image placeholder">
                                 </div>
                                 <div class="comment-body">
-                                  <h3>Jean Doe</h3>
-                                  <div class="meta">January 9, 2018 at 2:21pm</div>
+                                  <h3>Md.Emon</h3>
+                                  <div class="meta">September 9, 2023 at 2:21pm</div>
                                   <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Pariatur quidem laborum necessitatibus, ipsam impedit vitae autem, eum officia, fugiat saepe enim sapiente iste iure! Quam voluptas earum impedit necessitatibus, nihil?</p>
                                   <p><a href="#" class="reply rounded">Reply</a></p>
                                 </div>
@@ -122,8 +122,8 @@ include_once'inc/header.php';
                     <img src="images/photo1.jpg" alt="Image placeholder">
                   </div>
                   <div class="comment-body">
-                    <h3>Jean Doe</h3>
-                    <div class="meta">January 9, 2018 at 2:21pm</div>
+                    <h3>Md.Emon</h3>
+                    <div class="meta">September 9, 2023 at 2:21pm</div>
                     <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Pariatur quidem laborum necessitatibus, ipsam impedit vitae autem, eum officia, fugiat saepe enim sapiente iste iure! Quam voluptas earum impedit necessitatibus, nihil?</p>
                     <p><a href="#" class="reply rounded">Reply</a></p>
                   </div>
@@ -185,7 +185,7 @@ include_once'inc/header.php';
               <div class="text">
                 <div class="post-meta">
                   <span class="category">Lifestyle</span>
-                  <span class="mr-2">March 15, 2018 </span> &bullet;
+                  <span class="mr-2">September 05, 2023 </span> &bullet;
                   <span class="ml-2"><span class="fa fa-comments"></span> 3</span>
                 </div>
                 <h3>There’s a Cool New Way for Men to Wear Socks and Sandals</h3>
@@ -197,7 +197,7 @@ include_once'inc/header.php';
               <div class="text">
                 <div class="post-meta">
                   <span class="category">Travel</span>
-                  <span class="mr-2">March 15, 2018 </span> &bullet;
+                  <span class="mr-2">September 05, 2023 </span> &bullet;
                   <span class="ml-2"><span class="fa fa-comments"></span> 3</span>
                 </div>
                 <h3>There’s a Cool New Way for Men to Wear Socks and Sandals</h3>
@@ -209,7 +209,7 @@ include_once'inc/header.php';
               <div class="text">
                 <div class="post-meta">
                   <span class="category">Food</span>
-                  <span class="mr-2">March 15, 2018 </span> &bullet;
+                  <span class="mr-2">September 05, 2023 </span> &bullet;
                   <span class="ml-2"><span class="fa fa-comments"></span> 3</span>
                 </div>
                 <h3>There’s a Cool New Way for Men to Wear Socks and Sandals</h3>

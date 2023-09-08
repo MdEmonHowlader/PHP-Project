@@ -11,7 +11,7 @@
             
             <div class="row">
               <div class="col-md-12">
-                <h2 class="mb-4">Hi There! I'm Craig David</h2>
+                <h2 class="mb-4">Hi There! I'm Md.Emon</h2>
                 <p class="mb-5"><img src="images/img_6.jpg" alt="Image placeholder" class="img-fluid"></p>
                 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsum minima eveniet recusandae suscipit eum laboriosam fugit amet deleniti iste et. Ad dolores, necessitatibus non saepe tenetur impedit commodi quibusdam natus repellat, exercitationem accusantium perferendis officiis. Laboriosam impedit quia minus pariatur!</p>
                 <p>Dignissimos iste consectetur, nemo magnam nulla suscipit eius quibusdam, quo aperiam quia quae est explicabo nostrum ab aliquid vitae obcaecati tenetur beatae animi fugiat officia id ipsam sint? Obcaecati ea nisi fugit assumenda error totam molestiae saepe fugiat officiis quam?</p>
@@ -32,7 +32,7 @@
                     <span class="text">
                       <div class="post-meta">
                         <span class="author mr-2"><img src="images/photo1.jpg" alt="Colorlib"> Colorlib</span>&bullet;
-                        <span class="mr-2">March 15, 2018 </span> &bullet;
+                        <span class="mr-2">September 05, 2023 </span> &bullet;
                         <span class="ml-2"><span class="fa fa-comments"></span> 3</span>
                       </div>
                       <h2>There’s a Cool New Way for Men to Wear Socks and Sandals</h2>
@@ -47,7 +47,7 @@
                     <span class="text">
                       <div class="post-meta">
                         <span class="author mr-2"><img src="images/photo_2023-09-05_23-00-45.jpg" alt="Colorlib"> Colorlib</span>&bullet;
-                        <span class="mr-2">March 15, 2018 </span> &bullet;
+                        <span class="mr-2">September 05, 2023</span> &bullet;
                         <span class="ml-2"><span class="fa fa-comments"></span> 3</span>
                       </div>
                       <h2>There’s a Cool New Way for Men to Wear Socks and Sandals</h2>
@@ -62,7 +62,7 @@
                     <span class="text">
                       <div class="post-meta">
                         <span class="author mr-2"><img src="images/photo_2023-09-05_23-00-45.jpg" alt="Colorlib"> Colorlib</span>&bullet;
-                        <span class="mr-2">March 15, 2018 </span> &bullet;
+                        <span class="mr-2">September 05, 2023 </span> &bullet;
                         <span class="ml-2"><span class="fa fa-comments"></span> 3</span>
                       </div>
                       <h2>There’s a Cool New Way for Men to Wear Socks and Sandals</h2>
@@ -77,7 +77,7 @@
                     <span class="text">
                       <div class="post-meta">
                         <span class="author mr-2"><img src="images/photo_2023-09-05_23-00-45.jpg" alt="Colorlib"> Colorlib</span>&bullet;
-                        <span class="mr-2">March 15, 2018 </span> &bullet;
+                        <span class="mr-2">September 05, 2023</span> &bullet;
                         <span class="ml-2"><span class="fa fa-comments"></span> 3</span>
                       </div>
                       <h2>There’s a Cool New Way for Men to Wear Socks and Sandals</h2>
@@ -92,7 +92,7 @@
                     <span class="text">
                       <div class="post-meta">
                         <span class="author mr-2"><img src="images/photo_2023-09-05_23-00-45.jpg" alt="Colorlib"> Colorlib</span>&bullet;
-                        <span class="mr-2">March 15, 2018 </span> &bullet;
+                        <span class="mr-2">September 05, 2023 </span> &bullet;
                         <span class="ml-2"><span class="fa fa-comments"></span> 3</span>
                       </div>
                       <h2>There’s a Cool New Way for Men to Wear Socks and Sandals</h2>
@@ -107,7 +107,7 @@
                     <span class="text">
                       <div class="post-meta">
                         <span class="author mr-2"><img src="images/photo_2023-09-05_23-00-45.jpg" alt="Colorlib"> Colorlib</span>&bullet;
-                        <span class="mr-2">March 15, 2018 </span> &bullet;
+                        <span class="mr-2">September 05, 2023 </span> &bullet;
                         <span class="ml-2"><span class="fa fa-comments"></span> 3</span>
                       </div>
                       <h2>There’s a Cool New Way for Men to Wear Socks and Sandals</h2>
@@ -122,7 +122,7 @@
                     <span class="text">
                       <div class="post-meta">
                         <span class="author mr-2"><img src="images/photo_2023-09-05_23-00-45.jpg" alt="Colorlib"> Colorlib</span>&bullet;
-                        <span class="mr-2">March 15, 2018 </span> &bullet;
+                        <span class="mr-2">September 05, 2023 </span> &bullet;
                         <span class="ml-2"><span class="fa fa-comments"></span> 3</span>
                       </div>
                       <h2>There’s a Cool New Way for Men to Wear Socks and Sandals</h2>
@@ -137,7 +137,7 @@
                     <span class="text">
                       <div class="post-meta">
                         <span class="author mr-2"><img src="images/photo_2023-09-05_23-00-45.jpg" alt="Colorlib"> Colorlib</span>&bullet;
-                        <span class="mr-2">March 15, 2018 </span> &bullet;
+                        <span class="mr-2">September 05, 2023 </span> &bullet;
                         <span class="ml-2"><span class="fa fa-comments"></span> 3</span>
                       </div>
                       <h2>There’s a Cool New Way for Men to Wear Socks and Sandals</h2>
@@ -152,7 +152,7 @@
                     <span class="text">
                       <div class="post-meta">
                         <span class="author mr-2"><img src="images/photo_2023-09-05_23-00-45.jpg" alt="Colorlib"> Colorlib</span>&bullet;
-                        <span class="mr-2">March 15, 2018 </span> &bullet;
+                        <span class="mr-2">September 05, 2023 </span> &bullet;
                         <span class="ml-2"><span class="fa fa-comments"></span> 3</span>
                       </div>
                       <h2>There’s a Cool New Way for Men to Wear Socks and Sandals</h2>

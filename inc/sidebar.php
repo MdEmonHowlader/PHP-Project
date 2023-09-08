@@ -35,7 +35,7 @@
                         <div class="text">
                           <h4>How to Find the Video Games of Your Youth</h4>
                           <div class="post-meta">
-                            <span class="mr-2">March 15, 2018 </span>
+                            <span class="mr-2">September 05, 2023 </span>
                           </div>
                         </div>
                       </a>
@@ -46,7 +46,7 @@
                         <div class="text">
                           <h4>How to Find the Video Games of Your Youth</h4>
                           <div class="post-meta">
-                            <span class="mr-2">March 15, 2018 </span>
+                            <span class="mr-2">September 05, 2023 </span>
                           </div>
                         </div>
                       </a>
@@ -57,7 +57,7 @@
                         <div class="text">
                           <h4>How to Find the Video Games of Your Youth</h4>
                           <div class="post-meta">
-                            <span class="mr-2">March 15, 2018 </span>
+                            <span class="mr-2">September 05, 2023 </span>
                           </div>
                         </div>
                       </a>

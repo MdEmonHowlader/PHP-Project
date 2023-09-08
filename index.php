@@ -84,7 +84,7 @@ include_once'inc/header.php';
                     <div class="blog-content-body">
                       <div class="post-meta">
                         <span class="author mr-2"><img src="images/photo1.jpg" alt="Colorlib"> Colorlib</span>&bullet;
-                        <span class="mr-2">March 15, 2018 </span> &bullet;
+                        <span class="mr-2">September 05, 2023 </span> &bullet;
                         <span class="ml-2"><span class="fa fa-comments"></span> 3</span>
                       </div>
                       <h2>How to Find the Video Games of Your Youth</h2>
@@ -97,7 +97,7 @@ include_once'inc/header.php';
                     <div class="blog-content-body">
                       <div class="post-meta">
                         <span class="author mr-2"><img src="images/photo1.jpg" alt="Colorlib"> Colorlib</span>&bullet;
-                        <span class="mr-2">March 15, 2018 </span> &bullet;
+                        <span class="mr-2">September 05, 2023 </span> &bullet;
                         <span class="ml-2"><span class="fa fa-comments"></span> 3</span>
                       </div>
                       <h2>How to Find the Video Games of Your Youth</h2>
@@ -111,7 +111,7 @@ include_once'inc/header.php';
                     <div class="blog-content-body">
                       <div class="post-meta">
                         <span class="author mr-2"><img src="images/photo1.jpg" alt="Colorlib"> Colorlib</span>&bullet;
-                        <span class="mr-2">March 15, 2018 </span> &bullet;
+                        <span class="mr-2">September 05, 2023</span> &bullet;
                         <span class="ml-2"><span class="fa fa-comments"></span> 3</span>
                       </div>
                       <h2>How to Find the Video Games of Your Youth</h2>
@@ -124,7 +124,7 @@ include_once'inc/header.php';
                     <div class="blog-content-body">
                       <div class="post-meta">
                         <span class="author mr-2"><img src="images/photo1.jpg" alt="Colorlib"> Colorlib</span>&bullet;
-                        <span class="mr-2">March 15, 2018 </span> &bullet;
+                        <span class="mr-2">September 05, 2023 </span> &bullet;
                         <span class="ml-2"><span class="fa fa-comments"></span> 3</span>
                       </div>
                       <h2>How to Find the Video Games of Your Youth</h2>
@@ -138,7 +138,7 @@ include_once'inc/header.php';
                     <div class="blog-content-body">
                       <div class="post-meta">
                         <span class="author mr-2"><img src="images/photo1.jpg" alt="Colorlib"> Colorlib</span>&bullet;
-                        <span class="mr-2">March 15, 2018 </span> &bullet;
+                        <span class="mr-2">September 05, 2023 </span> &bullet;
                         <span class="ml-2"><span class="fa fa-comments"></span> 3</span>
                       </div>
                       <h2>How to Find the Video Games of Your Youth</h2>
@@ -151,7 +151,7 @@ include_once'inc/header.php';
                     <div class="blog-content-body">
                       <div class="post-meta">
                         <span class="author mr-2"><img src="images/photo1.jpg" alt="Colorlib"> Colorlib</span>&bullet;
-                        <span class="mr-2">March 15, 2018 </span> &bullet;
+                        <span class="mr-2">September 05, 2023 </span> &bullet;
                         <span class="ml-2"><span class="fa fa-comments"></span> 3</span>
                       </div>
                       <h2>How to Find the Video Games of Your Youth</h2>
@@ -165,7 +165,7 @@ include_once'inc/header.php';
                     <div class="blog-content-body">
                       <div class="post-meta">
                         <span class="author mr-2"><img src="images/photo1.jpg" alt="Colorlib"> Colorlib</span>&bullet;
-                        <span class="mr-2">March 15, 2018 </span> &bullet;
+                        <span class="mr-2">September 05, 2023 </span> &bullet;
                         <span class="ml-2"><span class="fa fa-comments"></span> 3</span>
                       </div>
                       <h2>How to Find the Video Games of Your Youth</h2>
@@ -178,7 +178,7 @@ include_once'inc/header.php';
                     <div class="blog-content-body">
                       <div class="post-meta">
                         <span class="author mr-2"><img src="images/photo1.jpg" alt="Colorlib"> Colorlib</span>&bullet;
-                        <span class="mr-2">March 15, 2018 </span> &bullet;
+                        <span class="mr-2">September 05, 2023 </span> &bullet;
                         <span class="ml-2"><span class="fa fa-comments"></span> 3</span>
                       </div>
                       <h2>How to Find the Video Games of Your Youth</h2>

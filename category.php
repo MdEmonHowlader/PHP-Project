@@ -23,7 +23,7 @@ include_once'inc/header.php';
                     <span class="text">
                       <div class="post-meta">
                         <span class="author mr-2"><img src="images/photo1.jpg" alt="Colorlib"> Colorlib</span>&bullet;
-                        <span class="mr-2">March 15, 2018 </span> &bullet;
+                        <span class="mr-2">September 05, 2023 </span> &bullet;
                         <span class="mr-2">Food</span> &bullet;
                         <span class="ml-2"><span class="fa fa-comments"></span> 3</span>
                       </div>
@@ -39,7 +39,7 @@ include_once'inc/header.php';
                     <span class="text">
                       <div class="post-meta">
                         <span class="author mr-2"><img src="images/photo1.jpg" alt="Colorlib"> Colorlib</span>&bullet;
-                        <span class="mr-2">March 15, 2018 </span> &bullet;
+                        <span class="mr-2">September 05, 2023 </span> &bullet;
                         <span class="mr-2">Food</span> &bullet;
                         <span class="ml-2"><span class="fa fa-comments"></span> 3</span>
                       </div>
@@ -55,7 +55,7 @@ include_once'inc/header.php';
                     <span class="text">
                       <div class="post-meta">
                         <span class="author mr-2"><img src="images/photo1.jpg" alt="Colorlib"> Colorlib</span>&bullet;
-                        <span class="mr-2">March 15, 2018 </span> &bullet;
+                        <span class="mr-2">September 05, 2023 </span> &bullet;
                         <span class="mr-2">Food</span> &bullet;
                         <span class="ml-2"><span class="fa fa-comments"></span> 3</span>
                       </div>
@@ -71,7 +71,7 @@ include_once'inc/header.php';
                     <span class="text">
                       <div class="post-meta">
                         <span class="author mr-2"><img src="images/photo1.jpg" alt="Colorlib"> Colorlib</span>&bullet;
-                        <span class="mr-2">March 15, 2018 </span> &bullet;
+                        <span class="mr-2">September 05, 2023</span> &bullet;
                         <span class="mr-2">Food</span> &bullet;
                         <span class="ml-2"><span class="fa fa-comments"></span> 3</span>
                       </div>
@@ -87,7 +87,7 @@ include_once'inc/header.php';
                     <span class="text">
                       <div class="post-meta">
                         <span class="author mr-2"><img src="images/photo1.jpg" alt="Colorlib"> Colorlib</span>&bullet;
-                        <span class="mr-2">March 15, 2018 </span> &bullet;
+                        <span class="mr-2">September 05, 2023 </span> &bullet;
                         <span class="mr-2">Food</span> &bullet;
                         <span class="ml-2"><span class="fa fa-comments"></span> 3</span>
                       </div>
@@ -103,7 +103,7 @@ include_once'inc/header.php';
                     <span class="text">
                       <div class="post-meta">
                         <span class="author mr-2"><img src="images/photo1.jpg" alt="Colorlib"> Colorlib</span>&bullet;
-                        <span class="mr-2">March 15, 2018 </span> &bullet;
+                        <span class="mr-2">September 05, 2023 </span> &bullet;
                         <span class="mr-2">Food</span> &bullet;
                         <span class="ml-2"><span class="fa fa-comments"></span> 3</span>
                       </div>
@@ -119,7 +119,7 @@ include_once'inc/header.php';
                     <span class="text">
                       <div class="post-meta">
                         <span class="author mr-2"><img src="images/photo1.jpg" alt="Colorlib"> Colorlib</span>&bullet;
-                        <span class="mr-2">March 15, 2018 </span> &bullet;
+                        <span class="mr-2">September 05, 2023 </span> &bullet;
                         <span class="mr-2">Food</span> &bullet;
                         <span class="ml-2"><span class="fa fa-comments"></span> 3</span>
                       </div>
@@ -135,7 +135,7 @@ include_once'inc/header.php';
                     <span class="text">
                       <div class="post-meta">
                         <span class="author mr-2"><img src="images/photo1.jpg" alt="Colorlib"> Colorlib</span>&bullet;
-                        <span class="mr-2">March 15, 2018 </span> &bullet;
+                        <span class="mr-2">September 05, 2023 </span> &bullet;
                         <span class="mr-2">Food</span> &bullet;
                         <span class="mr-2">Food</span> &bullet;
                         <span class="ml-2"><span class="fa fa-comments"></span> 3</span>
