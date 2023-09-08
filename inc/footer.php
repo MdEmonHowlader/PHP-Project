@@ -29,7 +29,7 @@
                       </li>
                       <li>
                         <a href="">
-                          <img src="images/img_3.jpg" alt="Image placeholder" class="mr-4">
+                          <img src="images/photo1.jpg" alt="Image placeholder" class="mr-4">
                           <div class="text">
                             <h4>How to Find the Video Games of Your Youth</h4>
                             <div class="post-meta">
