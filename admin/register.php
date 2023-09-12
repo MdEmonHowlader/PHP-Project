@@ -1,11 +1,11 @@
 <?php
-include_once'../classes/Register.php';
+        include_once'../classes/Register.php';
 
-$re=new Register();
-if($_SERVER['REQUEST_METHOD']=='POST'){
-    $addUser=$re->AddUser($_POST);
+    $regi = new Register();
+         if($_SERVER['REQUEST_METHOD']=='POST'){
+            $addUser = $regi->AddUser($_POST);
 
-}
+            }
 
 ?>
 
@@ -26,22 +26,7 @@ if($_SERVER['REQUEST_METHOD']=='POST'){
     <div class="container py-5">
         <div class="rew d-flex  justify-content-center">
             <div class="col-md-6">
-
-                <spen>
-                <?php
-                if(isset($addUser)){
-                 ?>
-                 <div class="alert alert-warning alert-dismissible fade show" role="alert">
-                    <?=$addUser?>
-                <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close">
-                    <spen aria-hidden="">$time</spen>
-                </button>
-                </div>
-                <?php
-                }
-                ?>
-                </spen>
-
+                    
                 <div class="card">
                  <h5 class="card-header">Registration From</h5>
                     <div class="card-body">
