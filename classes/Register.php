@@ -10,8 +10,9 @@ class Register{
     public function _construct()
     {
       $this->db= new Database();  
-      $this->fr=new Format(); 
+     $this->fr=new Format();
     }
+    
     public function AddUser($data){
         $name=$this->fr->validation($data['name']);
         $phone=$this->fr->validation($data['phone']);
