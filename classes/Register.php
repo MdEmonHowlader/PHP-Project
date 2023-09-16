@@ -1,45 +1,31 @@
 <?php
-
 include_once'../lib/Database.php';
 include_once'../helpers/Format.php';
+    class Register{
+        public $ed;
+        public $fr;
 
-class Register{
-    public $db;
-    public $fr;
 
-    public function _construct()
-    {
-      $this->db= new Database();  
-     $this->fr=new Format();
-    }
-    
-    public function AddUser($data){
-        $name=$this->fr->validation($data['name']);
-        $phone=$this->fr->validation($data['phone']);
-        $emali=$this->fr->validation($data['emali']);
-        $password=$this->fr->validation($data['password']);
-        $v_token= md5(rand());
+        public function __construct()
+        {
+            $this->ed=new Database();
+            $this->fr=new Format();
 
-        // $e_query="SELECT * FROM tbl_user WHERE  email='$emali'";
-        // $check_email= $this->db->select($e_query);
+        }
+        public function AddUser($data){
+            $name=$this->fr->validation($data['name']);
+            $phone=$this->fr->validation($data['phone']);
+            $email=$this->fr->validation($data['email']);
+            $paassword=$this->fr->validation($data['password']);
+            $v_token=md5(rand());
 
-        // if($check_email>0){
-        //     $error="Your email is alrady Existlib";
+            if(empty($name)|| empty($phone) || empty($email) || empty($paassword)){
+                $error="Fild must not be Empty";
+                return $error;
 
-        //     return $error;
+            }
 
-        //     header("location:register.php");
-
-        // }
-
-    if(empty($name) || empty($phone) || empty($emali) || empty($password)){
-        $error="Fild most not empty";
-        return $error;
+        }
 
     }
-
-    }
-
-}
-
 ?>

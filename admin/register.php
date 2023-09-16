@@ -7,7 +7,7 @@
 
             }
 
-?>
+?>  
 
 
 <!doctype html>
@@ -26,7 +26,25 @@
     <div class="container py-5">
         <div class="rew d-flex  justify-content-center">
             <div class="col-md-6">
+                <span>
+                    <?php
+                    if(isset($addUser)){
+                        ?>
+                         <div class="alert alert-warning alert-dismissible fade show" role="alert">
+                        
+                        <button type="button" class="close" data-dismiss="alert" aria-label="Close">
+                            <span aria-hidden="true">&times;</span>
+                        </button>
+                        </div>
+                        <?php
+
+                    }
                     
+                    
+                    
+                    ?>
+                </span>
+
                 <div class="card">
                  <h5 class="card-header">Registration From</h5>
                     <div class="card-body">
@@ -34,7 +52,7 @@
                         <div class="form-group">
                                 <label >Name</label>
                                 <input type="text" name="name" class="form-control" placeholder="Enter your name"> 
-                         </div>
+                            </div>
                             <div class="form-group" >
                                 <label >Phone</label>
                                 <input type="text" name="phone" class="form-control" placeholder="Enter your phone"> 

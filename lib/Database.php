@@ -15,8 +15,18 @@ class Database{
     }
 
     public function dbConnect(){
-        $this->link= mysqli_connect($this->host,$this->user, $this->password,$this->database);
+
+
+    //    $this->link= mysqli_connect(
+           
+        //     $this->host,
+        //    $this->user, 
+        //     $this->password, 
+        //     $this->database
+    //    );
+        
         if(!$this->link){
+            
             $this->error="Database is failed";
 
             return false;
