@@ -11,8 +11,8 @@
     <title>Login page</title>
   </head>
   <body>
-    <div class="container">
-        <div class="rew">
+    <div class="container py-5">
+        <div class="row d-flex justify-content-center">
             <div class="col-md-6">
                 <div class="card">
                  <h5 class="card-header">Login From</h5>
@@ -27,7 +27,7 @@
                             </div>
                            <button type="submit" class="btn btn-success">Login</button>
                            <a href="" class="btn btn-primary">Sign up</a>
-                           <a href="#" class="float-right">Forget your password ?</a>
+                           <a href="#" class="float-right">Forget your password?</a>
                         </form>
                         
 
