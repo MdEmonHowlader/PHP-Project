@@ -16,23 +16,25 @@ class Session{
 
     public static function loginCheka(){
         self::init();
-        if(self::get('login')==true){
-            header('location:index.php');
+        if(self::get('login')== true){
+            header('Location:index.php');
+        }
+    }
+    public static function checkSection(){
+        self::init();
+        if(self::get('login')== false){
+            self::destroy();
+            header('Location:login.php');
 
         }
     }
-    public static function checkSession(){
-        self::init();
-        if(self::get('login')==false){
-            self::destory();
-            header('location:login.php');
-            
-        }
-    }
-    public static function destory(){
+    public static function destroy(){
         session_destroy();
-        header('location:login.php');
+        header('Location:login.php');
     }
+
+
+       
 }
 
 
