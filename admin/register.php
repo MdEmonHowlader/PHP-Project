@@ -1,11 +1,9 @@
 <?php
         include_once'../classes/Register.php';
-
-    $regi = new Register();
-         if($_SERVER['REQUEST_METHOD']=='POST'){
-            $addUser = $regi->AddUser($_POST);
-
-            }
+        $re =new Register();
+        if($_SERVER['REQUEST_METHOD']=='POST'){
+            
+        }
 
 ?>  
 
