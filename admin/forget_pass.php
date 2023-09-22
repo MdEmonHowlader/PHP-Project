@@ -15,26 +15,24 @@
         <div class="row d-flex justify-content-center">
             <div class="col-md-6">
                 <div class="card">
-                 <h5 class="card-header">Login From</h5>
+                 <h5 class="card-header">Find Your Account</h5>
                     <div class="card-body">
                         <form>
                             <div class="form-group">
-                                <label >Email address</label>
-                                <input type="email" name="email" class="form-control">   
-                            </div>  <div class="form-group">
-                                <label >Password</label>
-                                <input type="password" name="password" class="form-control">   
-                            </div>
-                           <button type="submit" class="btn btn-success">Login</button>
-                           <a href="" class="btn btn-primary">Sign up</a>
-                           <a href="forget_pass.php" class="float-right">Forget your password?</a>
+                                <p>Please enter your email address or mobile number to search for your account.</p>
+                                <!-- <label >Email address</label> -->
+                                <input type="email" name="email" class="form-control" placeholder="Email address or Mobile number">   
+                            </div> 
+                            <button type="submit" class="btn btn-success">Search</button>
+                           <!-- <a href="" class="btn btn-primary">Sign up</a> -->
+                           
                         </form>
                         
 
-                        <hr>
-                        <h5>Did not recieve your varification email ?
-                            <a href="forget_pass.php">Resend</a>
-                        </h5>
+                        <!-- <hr> -->
+                        <!-- <h5>Did not recieve your varification email ?
+                            <a href="#">Resend</a>
+                        </h5> -->
                     </div>
 
                 </div>
