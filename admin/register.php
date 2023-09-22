@@ -2,7 +2,8 @@
         include_once'../classes/Register.php';
         $re =new Register();
         if($_SERVER['REQUEST_METHOD']=='POST'){
-            
+            $addUser = $re->AddUser($_POST);
+
         }
 
 ?>  
@@ -29,20 +30,15 @@
                     if(isset($addUser)){
                         ?>
                          <div class="alert alert-warning alert-dismissible fade show" role="alert">
-                        
+                        <?=$addUser?>
                         <button type="button" class="close" data-dismiss="alert" aria-label="Close">
                             <span aria-hidden="true">&times;</span>
                         </button>
                         </div>
                         <?php
-
                     }
-                    
-                    
-                    
                     ?>
                 </span>
-
                 <div class="card">
                  <h5 class="card-header">Registration From</h5>
                     <div class="card-body">

@@ -19,6 +19,17 @@ include_once'../helpers/Format.php';
             $paassword=$this->fr->validation($data['password']);
             $v_token=md5(rand());
 
+            // $e_query ="SELECT *FROM tbl_users WHERE email= '$email'";
+            // $check_email = $this->ed->select($e_query);
+            // if($check_email >0){
+            //     $error = "This Email is alrady Exisit";
+            //     return $error;
+            //     header("Location:register.php");
+
+
+            // }
+
+
             if(empty($name)|| empty($phone) || empty($email) || empty($paassword)){
                 $error="Fild must not be Empty";
                 return $error;
