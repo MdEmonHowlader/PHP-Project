@@ -1,6 +1,13 @@
 <?php
 include_once'../lib/Database.php';
 include_once'../helpers/Format.php';
+include_once'../PHPmailer/PHPMailer.php';
+include_once'../PHPmailer/SMTP.php';
+include_once'../PHPmailer/Exception.php';
+
+use PHPMailer\PHPMailer\PHPMailer;
+use PHPMailer\PHPMailer\SMTP;
+use PHPMailer\PHPMailer\Exception;
     class Register{
         public $ed;
         public $fr;
@@ -15,7 +22,11 @@ include_once'../helpers/Format.php';
         public function AddUser($data){
 
             function sendemail_verifi($name, $email, $v_token){
-                
+            $mail = new PHPMailer(true);
+             $mail->isSMTP();
+             $mail->SMTPAuth   = true; 
+
+
             }
             $name=$this->fr->validation($data['name']);
             $phone=$this->fr->validation($data['phone']);
