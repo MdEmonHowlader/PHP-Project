@@ -13,6 +13,10 @@ include_once'../helpers/Format.php';
 
         }
         public function AddUser($data){
+
+            function sendemail_verifi($name, $email, $v_token){
+                
+            }
             $name=$this->fr->validation($data['name']);
             $phone=$this->fr->validation($data['phone']);
             $email=$this->fr->validation($data['email']);
@@ -32,7 +36,17 @@ include_once'../helpers/Format.php';
                     return $error;
                     header("Location:register.php");
                 }else{
-                    $insert_query="INSERT INTO tbl_user(name, ) "
+                    $insert_query="INSERT INTO tbl_user(name, email, phone, password, v_token) VALUES('$name', '$email', '$phone', '$paassword', '$v_token')";
+                    $insert_row=$this->ed->insert($insert_query);
+
+                    if($insert_row){
+                        sendemail_verifi($name, $email, $v_token);
+                        $success="Registration successfully. Place check your email inbox for verifi email";
+                        return $success;
+                    }else{
+                        $error ="Registrstion failed";
+                        return $error;
+                    }
                 }
 
             }
