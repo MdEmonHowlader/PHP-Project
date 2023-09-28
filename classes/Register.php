@@ -1,6 +1,7 @@
 <?php
 include_once'../lib/Database.php';
 include_once'../helpers/Format.php';
+
 include_once'../PHPmailer/PHPMailer.php';
 include_once'../PHPmailer/SMTP.php';
 include_once'../PHPmailer/Exception.php';
@@ -25,6 +26,26 @@ use PHPMailer\PHPMailer\Exception;
             $mail = new PHPMailer(true);
              $mail->isSMTP();
              $mail->SMTPAuth   = true; 
+
+             $mail->Host= 'smtp.gmail. com';
+             $mail->Username='emonhowlader@gmail.com';
+             $mail->Password='123456788';
+
+             $mail->SMTPSecure='tls';
+             $mail->Port=587;
+
+             $mail->setFrom('emonhowlader@gamil.com', $name);
+             $mail->addAddress($name);
+
+             $mail->isHTML(true);
+             $mail->Subject='Email Verification From Emon Howlader';
+
+
+             $email_templet="
+             <h2>Your have register with Emon</h2>
+             <h5>Verify your email address to login please click the link below</h5>
+             <a href='http://localhost/phpmyadmin/verify-email.php? token= v_token'>Click Here</a>
+             ";
 
 
             }
